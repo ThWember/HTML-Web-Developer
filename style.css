@@ -1,3 +1,9 @@
+.my-photo{
+    width: 10%;
+    border-radius: 20%;
+
+}
+
 body {
     background-color: #b6b6b6;
 }
@@ -19,6 +25,7 @@ body {
 }
 
 .post-image {
+    width: 60%;
     margin: 0;
     margin-bottom: 10px;
 }
